@@ -1,0 +1,11 @@
+item_id,product_name,department_name,price,stock_quantity
+1,"Eggs (dozen)",Grocery,2.95,50
+2,"Bacon (1lb)",Grocery,6.99,40
+3,"Tobasco Sauce",Grocery,2.75,30
+4,"10-pack of blank CD-Rs",Electronics,5.99,500
+5,"HDMI-to-Display Port adapter",Electronics,13.99,20
+6,"Two-person tent",Outdoors,64.99,10
+7,"Inflatable beach ball",Outdoors,8.99,30
+8,"Deck of playing cards",Entertainment,3.99,25
+9,"Vanilla bourbon scented candle (15 oz)","Home and Decor",11.99,15
+10,"20x24 inch picture frame","Home and Decor",22.49,10
