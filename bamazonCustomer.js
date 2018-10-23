@@ -153,7 +153,7 @@ function orderAgain() {
 
           else {
             console.log("------")
-            Console.log("Thanks for visiting Bamazon!")
+            console.log("Thanks for shopping on Bamazon!")
             connection.end();
           }
         })
