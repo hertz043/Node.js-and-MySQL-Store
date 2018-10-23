@@ -1,0 +1,23 @@
+{
+  "name": "node.js-and-mysql-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hertz043/Node.js-and-MySQL-Store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hertz043/Node.js-and-MySQL-Store/issues"
+  },
+  "homepage": "https://github.com/hertz043/Node.js-and-MySQL-Store#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
